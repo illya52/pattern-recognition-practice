@@ -28,4 +28,4 @@
 – побудову розподілів ознак;
 – формулювання задачі багатокласової класифікації.
 
-[Відкрити Notebook](notebooks1/PR01_Химинець_Ілля.ipynb)
+[Відкрити Notebook](https://github.com/illya52/pattern-recognition-practice/blob/main/notebooks1/PR01_%D0%A5%D0%B8%D0%BC%D0%B8%D0%BD%D0%B5%D1%86%D1%8C_%D0%86%D0%BB%D0%BB%D1%8F.ipynb.)
